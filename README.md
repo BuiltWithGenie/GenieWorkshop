@@ -15,6 +15,7 @@ git clone --branch template https://github.com/BuiltWithGenie/MultiPageApp.git
 ```
 - Julia 1.9 
 - VSCode with the Genie Builder extension from the VSCode marketplace (mandatory only for no-code UI editing)
+- [Slides](https://genieworkshop.netlify.app/1)
 
 ## Preparing for the workshop
 
