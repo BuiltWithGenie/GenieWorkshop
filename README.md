@@ -19,15 +19,15 @@ git clone --branch template https://github.com/BuiltWithGenie/MultiPageApp.git
 
 ## Preparing for the workshop
 
-Before the workshop starts, please make sure you have the requirements. Then, set up your environment by:
+Before the workshop starts, please make sure you have the requirements. Then, set up your environment:
 
-- Installing the packages that will be used by the app
+- Installing the packages that will be used by the app with the included `pkginstall.sh` script:
 
 ```bash
 ./pkginstall.sh
 ```
 
-- Add the apps to the Genie Builder environment
+- Add the apps to the Genie Builder environment with `gbsetup.sh`:
 ```bash
 ./gbsetup.sh
 ```
