@@ -12,6 +12,7 @@ To follow the workshop you'll need the following:
 - Template code including setup scripts, base code, and the `Project.toml` files for each app.
 ```bash
 git clone --branch template https://github.com/BuiltWithGenie/MultiPageApp.git
+cd MultiPageApp
 ```
 - Julia 1.9 (install with [juliaup](https://github.com/JuliaLang/juliaup))
 - VSCode with the [Genie Builder](https://marketplace.visualstudio.com/items?itemName=GenieBuilder.geniebuilder) extension from the VSCode marketplace (mandatory only for no-code UI editing)
