@@ -18,6 +18,12 @@ cd MultiPageApp
 - VSCode with the [Genie Builder](https://marketplace.visualstudio.com/items?itemName=GenieBuilder.geniebuilder) extension from the VSCode marketplace (mandatory only for no-code UI editing)
 - [Slides](https://genieworkshop.netlify.app/1?print) - use up and down arrows to move through slides
 
+If you've used Genie Builder before, it is recommended that you start with a fresh environment. For that, delete the geniebuilder folder with
+
+```bash
+rm -rf ~/.julia/geniebuilder
+```
+
 ## Preparing for the workshop
 
 Before the workshop starts, please make sure you have the requirements. Then, set up your environment by
