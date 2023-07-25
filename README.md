@@ -20,7 +20,7 @@ cd MultiPageApp
 
 ## Preparing for the workshop
 
-Before the workshop starts, please make sure you have the requirements. Then, set up your environment:
+Before the workshop starts, please make sure you have the requirements. Then, set up your environment by
 
 - Installing the packages that will be used by the app with the included `pkginstall.sh` script:
 
@@ -28,7 +28,7 @@ Before the workshop starts, please make sure you have the requirements. Then, se
 ./pkginstall.sh
 ```
 
-- Add the apps to the Genie Builder environment with `gbsetup.sh`:
+- Adding the apps to the Genie Builder environment with `gbsetup.sh`:
 ```bash
 ./gbsetup.sh
 ```
