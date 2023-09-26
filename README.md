@@ -11,7 +11,7 @@ To follow the workshop you'll need the following:
 
 - Template code including setup scripts, base code, and the `Project.toml` files for each app.
 ```bash
-git clone --branch template https://github.com/BuiltWithGenie/MultiPageApp.git
+git clone --branch starter https://github.com/BuiltWithGenie/MultiPageApp.git
 cd MultiPageApp
 ```
 - Julia 1.9 (install with [juliaup](https://github.com/JuliaLang/juliaup))
@@ -28,13 +28,7 @@ rm -rf ~/.julia/geniebuilder
 
 Before the workshop starts, please make sure you have the requirements. Then, set up your environment by
 
-- Installing the packages that will be used by the app with the included `pkginstall.sh` script:
-
-```bash
-./pkginstall.sh
-```
-
-- Adding the apps to the Genie Builder environment with `gbsetup.sh`:
+- Installing the required packages and adding the apps to the Genie Builder environment with `gbsetup.sh`:
 ```bash
 ./gbsetup.sh
 ```
